@@ -9,7 +9,7 @@ Download Page: https://ieeexplore.ieee.org/document/8428432/
 *Date of Publication: 02 March 2018*  
 Title: **Action-Driven Visual Object Tracking With Deep Reinforcement Learning**  
 Authors: **Sangdoo Yun,Jongwon Choi, Youngjoon Yoo, Kimin Yun, Jin Young Choi**  
-https://ieeexplore.ieee.org/document/8306309/
+Download Page:https://ieeexplore.ieee.org/document/8306309/
 
 *Date of Publication: 22 December 2017*  
 Title: **Robust Object Tracking by Nonlinear Learning**  
@@ -21,7 +21,7 @@ Title: **Event-Driven Stereo Visual Tracking Algorithm to Solve Object Occlusion
 Authors: **Luis A. Camuñas-Mesa,Teresa Serrano-Gotarredona ,Sio-Hoi Ieng,Ryad Benosman ,Bernabé Linares-Barranco**  
 Download Page:https://ieeexplore.ieee.org/document/8088365/
 
-*Date of Publication: 11 April 2017*
-Title: **Manifold Regularized Correlation Object Tracking**
-Authors: **Hongwei Hu, Bo Ma, Jianbing Shen, Ling Shao**
+*Date of Publication: 11 April 2017*  
+Title: **Manifold Regularized Correlation Object Tracking**  
+Authors: **Hongwei Hu, Bo Ma, Jianbing Shen, Ling Shao**  
 Download Page:https://ieeexplore.ieee.org/document/7896655/
