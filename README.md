@@ -1,5 +1,6 @@
 # tracking-papers-in-TNNLS
-relatively new tracking papers in IEEE Transactions on Neural Networks and Learning Systems
+relatively new tracking papers in IEEE Transactions on Neural Networks and Learning Systems  
+**Thanks for Rong Kou's help in this section!**
 
 *Date of Publication: 07 August 2018*  
 Title: **Spatially Regularized Structural Support Vector Machine for Robust Visual Tracking**  
