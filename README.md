@@ -6,13 +6,6 @@ Title: **Spatially Regularized Structural Support Vector Machine for Robust Visu
 Authors: **Yuhui Zheng,Le Sun,Shunfeng Wang,Jianwei Zhang,Jifeng Ning**  
 Download Page: https://ieeexplore.ieee.org/document/8428432/
 
-
-*Date of Publication:09 May 2018*  
-Title: **Neural Network-Based Model-Free Adaptive Near-Optimal Tracking Control for a Class of Nonlinear Systems**  
-Authors: **Yinyan Zhang,Shuai Li,Xiaoping Liu**  
-Download Page: https://ieeexplore.ieee.org/document/8356709/
-
-
 *Date of Publication:  05 April 2018*  
 Title: **A Locally Weighted Project Regression Approach-Aided Nonlinear Constrained Tracking Control**  
 Authors: **Tianyi Gao,Shen Yin,Huijun Gao,Xuebo Yang,ianbin Qiu,Okyay Kaynak**  
