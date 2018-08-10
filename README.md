@@ -8,7 +8,7 @@ Download Page: https://ieeexplore.ieee.org/document/8428432/
 
 *Date of Publication: 22 December 2017*  
 Title: **Robust Object Tracking by Nonlinear Learning**  
-Authors: ** Bo Ma,Hongwei Hu,Jianbing Shen,Yuping Zhang,Ling Shao ,Fatih Porikli**  
+Authors: **Bo Ma,Hongwei Hu,Jianbing Shen,Yuping Zhang,Ling Shao ,Fatih Porikli**  
 Download Page:https://ieeexplore.ieee.org/document/8237203/
 
 *Date of Publication: 27 October 2017*  
